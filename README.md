@@ -2,15 +2,15 @@
 
 Banco de dados criado com intuito de aprendizado
 
-# Primeiro passo é necessário abrir o seu terminal de preferencia e logo após escrever este comando:
+# Existem outras entidades além dessas três?
 
 cd cta-portal-candidato
 
-# Segundo passo executar este  comando:
+# Quais são os principais campos e tipos?
 
 python -m venv venv
 
-# Terceiro passo executar este  comando: 
+# Como essas entidades estão relacionadas?
 
 
 
