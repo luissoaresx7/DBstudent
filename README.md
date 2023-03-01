@@ -12,15 +12,7 @@ python -m venv venv
 
 # Terceiro passo executar este  comando: 
 
-venv\scripts\activate.bat
 
-- Terceiro passo executar este  comando: 
-
-pip install -r requirements.txt
-
-- Terceiro passo e por ultimo exexutar o comando que de fato irar abrir aplicação:
-
-flask --app app run
 
 
 
